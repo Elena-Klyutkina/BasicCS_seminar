@@ -1,0 +1,15 @@
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\bin\Debug\net6.0\043.exe
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\bin\Debug\net6.0\043.deps.json
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\bin\Debug\net6.0\043.runtimeconfig.json
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\bin\Debug\net6.0\043.dll
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\bin\Debug\net6.0\043.pdb
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\043.csproj.AssemblyReference.cache
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\043.AssemblyInfoInputs.cache
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\043.AssemblyInfo.cs
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\043.csproj.CoreCompileInputs.cache
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\043.dll
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\refint\043.dll
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\043.pdb
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\043.genruntimeconfig.cache
+C:\Users\Elena.Klyutkina\Desktop\Личное\Обучение GeekBrains\BasicCS_seminar\043\obj\Debug\net6.0\ref\043.dll
